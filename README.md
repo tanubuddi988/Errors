@@ -1,1 +1,2 @@
 # Errors
+There are three basic types of errors that programmers need to be concerned about: Syntax errors, runtime errors, and Logical errors. Syntaxis the set of rules that govern a language. In written and spoken language, rules can be bent or even broken to accommodate the speaker or writer. However, in a programming language the rules are rigid. A syntax error occurs when the programmer writes an instruction using incorrect syntax and Python can not understand what you are saying. 
